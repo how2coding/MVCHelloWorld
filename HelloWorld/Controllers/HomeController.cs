@@ -10,7 +10,7 @@ namespace HelloWorld.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hello Pavel!";
+            ViewBag.Message = "Hello World nattapong!";
 
             return View();
         }
